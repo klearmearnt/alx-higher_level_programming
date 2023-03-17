@@ -4,3 +4,4 @@ for i in range(97, 123):
     asciiToAlpha = "" + tableAsciiToAlphabet
     print("{}".format(asciiToAlpha), end='')
 
+
